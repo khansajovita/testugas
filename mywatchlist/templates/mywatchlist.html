@@ -27,4 +27,9 @@
 {% endfor %}
   </table>
 
+{%if done >= undone %}
+  <h5>Selamat, kamu sudah menonton banyak!</h5>
+{%else%}
+  <h5>Wah, kamu kurang banyak menonton.</h5>
+{%endif%}
 {% endblock content %}
