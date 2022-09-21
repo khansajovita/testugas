@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+ {% block content %}
+
+  <h1>Tugas 3 Assignment PBP/PBD</h1>
+
+  <h3>Name: {{nama}} </h3>
+
+  <h3>Student ID: {{npm}}</h3>
+
+  <table>
+    <tr>
+      <th>Watched</th>
+      <th>Title</th>
+      <th>Rating</th>
+      <th>Release Date</th>
+      <th>Review</th>
+    </tr>
+    {% for film in listfilm %}
+    <tr>
+        <th>{{film.watched}}</th>
+        <th>{{film.title}}</th>
+        <th>{{film.rating}}</th>
+        <th>{{film.release_date}}</th>
+        <th>{{film.review}}</th>
+    </tr>
+{% endfor %}
+  </table>
+
+{% endblock content %}

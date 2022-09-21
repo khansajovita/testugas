@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched": "true",
+            "title": "When Marnie Was There",
+            "rating": 4,
+            "release_date": "19 Juli 2014",
+            "review": "Filmnya bagus, salah satu favorit karena bikin nangis."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 2,
+        "fields": {
+            "watched": "true",
+            "title": "Kiki's Delivery Servcice",
+            "rating": 3,
+            "release_date": "29 July 1989",
+            "review": "Ya oke lah, soalnya ada kucingnya jadi lucu."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 3,
+        "fields": {
+            "watched": "true",
+            "title": "Arrietty",
+            "rating": 4,
+            "release_date": "17 Juli 2010",
+            "review": "Keren sih, Arrietty-nya cantik banget tapi ada pembantunya nyebelin."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 4,
+        "fields": {
+            "watched": "true",
+            "title": "Howl's Moving Castle",
+            "rating": 5,
+            "release_date": "20 November 2004",
+            "review": "KEREN LAH, salah satu couple terbaik di studio ghibli sih kayanya."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 5,
+        "fields": {
+            "watched": "true",
+            "title": "Spirited Away",
+            "rating": 3,
+            "release_date": "20 Juli 2001",
+            "review": "Jujur aja serem sama hantunya, aneh-aneh bentukannya. Tapi oke sih."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 6,
+        "fields": {
+            "watched": "true",
+            "title": "Tales from Earthsea",
+            "rating": 2,
+            "release_date": "29 Juli 2006",
+            "review": "Duh bagus sih, tapi kenapa alurnya gak jelas."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 7,
+        "fields": {
+            "watched": "true",
+            "title": "From up On Poppy Hill",
+            "rating": 3,
+            "release_date": "16 Juli 2011",
+            "review": "So so. Tapi unexpected karena ternyata sodaraan."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 8,
+        "fields": {
+            "watched": "false",
+            "title": "Whisper of the Heart",
+            "rating": 0,
+            "release_date": "July 15, 1995",
+            "review": "PENGEN NONTON, ngeliat covernya kayanya couple-nya lucu."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 9,
+        "fields": {
+            "watched": "false",
+            "title": "My Neighbor Totoro",
+            "rating": 0,
+            "release_date": "16 April 1988",
+            "review": "Mau nonton sih, tapi belum mood liat characternya."
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlistitem",
+        "pk": 10,
+        "fields": {
+            "watched": "false",
+            "title": "The Wind Rises",
+            "rating": 0,
+            "release_date": "20 Juli 2013",
+            "review": "Mau nonton karena ada salah satu couple lucu dari studio ghibli."
+        }
+    }
+]
